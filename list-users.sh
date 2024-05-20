@@ -1,11 +1,5 @@
 #!/bin/bash
 
-#################
-#About:List all users with read access
-#Input: Username and token
-#################
-
-
 # GitHub API URL
 API_URL="https://api.github.com"
 
